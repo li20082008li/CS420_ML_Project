@@ -37,6 +37,10 @@ Segment neural structure from EM images
 
 ```python run.py --model MODEL_NAME```
 
+The corresponding model parameter file (*.pth) should be put in the ```saved_model``` folder.
+
+We do not upload out trained models to github due to large file size.
+
 #### Train model from dataset:
 
 1. Perform data augmentation:
